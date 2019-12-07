@@ -1,0 +1,17 @@
+package umPacote;
+
+import java.util;
+
+public class umaClasse {
+
+    private int umaVariavel;
+    public String outraVariavel;
+
+    public int umMetodo( int umAtributo )
+    {
+        int x = 0 ;
+        x + umAtributo;
+        return x;
+    }
+}
+
