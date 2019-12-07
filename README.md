@@ -7,5 +7,4 @@
    - [Gabriel Gasperi Casgrande](https://github.com/gabrielcasag)
    - [Adriano Domingos Goulart](https://github.com/adrianodg)
 
-
-*Ufla - 2019/2
+*Ufla - 2019/2*
